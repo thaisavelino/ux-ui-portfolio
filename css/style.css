@@ -4,9 +4,9 @@
 body {
   background: #ffffff;
   color: #898989;
-  /*font-family: 'Poppins', helvetica;*/
+  font-family: BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 160%;
   letter-spacing: 0.02em;
   overflow-x: hidden;
   margin: 0 auto;
@@ -76,7 +76,8 @@ nav ul li a {
 p {
   margin: 25px 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 16px;
+  
   color: #999999;
   line-height: 28px;
 }
@@ -257,7 +258,7 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 16px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
@@ -273,8 +274,13 @@ nav ul li a {
 
 .header-content .list-social li i {
   color: #fff;
-  font-size: 15px;
+  font-size: 30px;
 }
+
+.header-content .list-social li a {
+  font-size: 20px;
+  color: #fff;
+} 
 
 /*-----------------------------------------------------------------------------------*/
 /*  Aout-us
@@ -329,7 +335,7 @@ nav ul li a {
 .services-block span {
   margin: 10px 0;
   position: relative;
-  font-size: 13px;
+  font-size: 16px;
   color: #292929;
   letter-spacing: 0.1em;
   font-weight: 500;
@@ -339,7 +345,7 @@ nav ul li a {
 
 .services-block .separator {
   margin: 0;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 22px;
 }
 
@@ -502,7 +508,7 @@ nav ul li a {
 
 .journal-block .journal-info .journal-txt p {
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 
@@ -612,7 +618,7 @@ nav ul li a {
 }
 
 #footer p {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0.1em;
   font-weight: 500;
   margin-top: 0;
