@@ -52,7 +52,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #9cc19e;
+  color: #2a83b5;
   text-decoration: underline;
 }
 
@@ -83,12 +83,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #9cc19e;
+  background: #2a83b5;
   color: #fff;
 }
 
 ::selection {
-  background: #9cc19e;
+  background: #2a83b5;
   color: #fff;
 }
 
@@ -157,7 +157,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #9cc19e;
+  background: #2a83b5;
 }
 
 .mb-30 {
@@ -214,8 +214,7 @@ nav ul li a {
 }
 
 .logo img {
-  width: 100px;
-  height: 50px;
+  width: 170px;
 }
 
 .responsive {
@@ -233,8 +232,8 @@ nav ul li a {
 
 #header {
   /*background: url("../images/home-bg.jpg") repeat scroll center center / cover;*/
-  background-color: #001b27;
-
+  /* background-color: #001b27;*/
+  background-color: #1d3657;
   height: 100vh;
   width: 100%;
 }
@@ -295,7 +294,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #9cc19e;
+  border: 20px solid #2a83b5;
 }
 
 #about .div-img-bg .about-img img {
@@ -351,7 +350,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #9cc19e;
+  color: #2a83b5;
   line-height: 44px;
 }
 
@@ -378,7 +377,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #9cc19e;
+  background-color: #2a83b5;
 }
 
 .owl-nav {
@@ -423,7 +422,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #9cc19e;
+  color: #2a83b5;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -498,7 +497,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #9cc19e;
+  color: #2a83b5;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -609,7 +608,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #9cc19e;
+  color: #2a83b5;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
