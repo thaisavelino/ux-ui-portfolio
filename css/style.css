@@ -108,6 +108,10 @@ p {
   color: #fff;
 }
 
+.btn-cv {
+  margin: 8px;
+}
+
 .padDiv {
   padding: 30px 20px;
 }
@@ -234,7 +238,7 @@ nav ul li a {
   /*background: url("../images/home-bg.jpg") repeat scroll center center / cover;*/
   /* background-color: #001b27;*/
   background-color: #1d3657;
-  height: 100vh;
+  height: 90vh;
   width: 100%;
 }
 
